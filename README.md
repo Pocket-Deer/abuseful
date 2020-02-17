@@ -1,1 +1,1 @@
-# abuseful
+# Just open a Wiki page
