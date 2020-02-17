@@ -1,8 +1,8 @@
 ## Online Services
  - Конвертация файлов
-   - [Универсальный]()
+   - [Универсальный](https://github.com/Pocket-Deer/abuseful/blob/master/systems/online.md#универсальный)
  - Видео
-   - [Youtube to .mp3 / .mp4]()
+   - [Youtube to .mp3 / .mp4](https://github.com/Pocket-Deer/abuseful/blob/master/systems/online.md#youtube-to-mp3--mp4)
    
 ## Конвертация файлов
 ### Универсальный
@@ -10,4 +10,4 @@
 
 ## Видео
 ### Youtube to .mp3 / .mp4
-- [https://ytmp3.cc](ytmp3.cc) -> Позволяет конвертировать практически любое видео с YouTube в формат .mp3 или .mp4
+- [ytmp3.cc](https://ytmp3.cc) -> Позволяет конвертировать практически любое видео с YouTube в формат .mp3 или .mp4
