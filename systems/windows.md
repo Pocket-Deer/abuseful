@@ -1,13 +1,13 @@
 ## Windows Apps
- - Диспетчер задач
+ - Sample
    - [none]()
- - Кряки\ключи
+ - Sample
    - [none]()
    
-## Диспетчер задач
+## Sample
 ### none
 - [sample]() -> sample_description
 
-## Кряки\ключи
+## Sample
 ### none
 - [sample]() -> sample_description
