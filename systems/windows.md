@@ -1,8 +1,8 @@
 ## Windows Apps
  - Windows
-   - [Установка системы]()
-   - [Активация системы]()
-   - [Тонкая настройка системы]()
+   - [Установка системы](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#установка-системы)
+   - [Активация системы](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#активация-системы)
+   - [Тонкая настройка системы](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#тонкая-настройка-системы)
 
 ## Windows
 ### Установка системы
