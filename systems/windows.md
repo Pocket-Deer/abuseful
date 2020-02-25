@@ -1,14 +1,23 @@
 ## Windows Apps
- - Экран
-   - [Запись видео](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#запись-видео)
-   - [Сохранение скриншотов](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#сохранение-скриншотов)
- - Процессы / запущенные программы
-   - [Принудительное завершение процесса](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#принудительное-завершение-процесса)
- - Интернет / Wi-Fi
-   - [Wi-Fi](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#Wi-Fi)
- - Windows
-   - [Установка системы](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#установка-системы)
-   - [Тонкая настройка системы](https://github.com/Pocket-Deer/abuseful/blob/master/systems/windows.md#тонкая-настройка-системы)
+- Фотографии
+  - [Обработка фотографий](#обработка-фотографий)
+  - [Просмотр фотографий](#просмотр-фотографий)
+- Экран
+  - [Запись видео](#запись-видео)
+  - [Сохранение скриншотов](#сохранение-скриншотов)
+- Процессы / запущенные программы
+  - [Принудительное завершение процесса](#принудительное-завершение-процесса)
+- Интернет / Wi-Fi
+  - [Wi-Fi](#Wi-Fi)
+- Windows
+  - [Установка системы](#установка-системы)
+  - [Тонкая настройка системы](#тонкая-настройка-системы)
+
+## Фотографии
+### Обработка фотографий
+- [Waifu2X Caffe](https://github.com/lltcggie/waifu2x-caffe/releases) <- Улучшает качество изображений, так же позволяя увеличить их в размере. Отлично работает со всякими аниме-скриншотами, или со всякими нарисованными мультипликационными картинками.
+### Просмотр фотографий
+- [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) <- Более функциональный просмотр изображений на компьютере, поддерживающий различные форматы.
 
 ## Экран
 ### Запись видео
