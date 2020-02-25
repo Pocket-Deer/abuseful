@@ -4,6 +4,7 @@
 - [Камера](#камера)
   - [Таймлапс](#таймлапс)
 - [Социальные сети](#социальные-сети)
+- [Файлы](#файлы)
    
 ## Галерея
 - [SimpleGallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) <- Новая стилизованная галерея, для просмотров ваших фотографий.
@@ -17,3 +18,6 @@
 
 ## Социальные сети
 - [StorySave](https://play.google.com/store/apps/details?id=io.storysave.android) <- Позволяет сохранять истории\прямые эфиры\посты из Instagram 
+
+## Файлы
+- [MiXplorer](http://www.mixplorer.com) <- Удобный файловый менеджер. Просто файловый менеджер. Файловый менеджер
