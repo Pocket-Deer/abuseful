@@ -1,13 +1,26 @@
 ## Online Services
- - Конвертация файлов
-   - [Универсальный](https://github.com/Pocket-Deer/abuseful/blob/master/systems/online.md#универсальный)
- - Видео
-   - [Youtube to .mp3 / .mp4](https://github.com/Pocket-Deer/abuseful/blob/master/systems/online.md#youtube-to-mp3--mp4)
+- Аудио
+  - [Изменение голоса](#изменение-голоса)
+- Видео
+  - [Youtube to .mp3 / .mp4](#youtube-to-mp3--mp4)
+- Конвертация файлов
+  - [Универсальный](#универсальный)
+- Текст
+  - [Поиск шрифтов](#поиск-шрифтов)
    
+## Аудио
+### Изменение голоса
+- [Voice Changer io](https://voicechanger.io) <- Довольно прикольная онлайн вещь для изменения голоса. Может записать ваш голос или поменть из существующего файла.
+## Видео
+### Youtube to .mp3 / .mp4
+- [ytmp3.cc](https://ytmp3.cc) -> Позволяет конвертировать практически любое видео с YouTube в формат .mp3 или .mp4
+
 ## Конвертация файлов
 ### Универсальный
 - [online-convert.com](https://www.online-convert.com/ru) -> Крупный конвертер различных файлов в различные форматы. Поддерживает конвертацию видео, картинок, музыки, документов, архивов и пр.
 
-## Видео
-### Youtube to .mp3 / .mp4
-- [ytmp3.cc](https://ytmp3.cc) -> Позволяет конвертировать практически любое видео с YouTube в формат .mp3 или .mp4
+## Текст
+### Поиск шрифтов
+- [What Font Is](https://www.whatfontis.com) <- Поиск шрифтов по загруженным картинкам
+- [Fonts In Use](https://fontmeme.com/fonts-in-use/) <- Список шрифтов из разных фильмов, игр, сериалов и прочее. Вполне удобный поиск по категориям.
+
